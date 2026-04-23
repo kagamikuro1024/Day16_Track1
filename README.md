@@ -1,6 +1,13 @@
 # DAY 16 — AI Product Strategy & Market Analysis
 ## TA_Chatbot — AI Trợ Giảng
 
+
+## Members
+- **Tạ Thị Thùy Dương - 2A202600287**
+- **Lê Văn Quang Trung-2A202600383**
+- **Trịnh Xuân Đạt -2A202600326**
+
+
 ---
 
 ### 📁 Cấu trúc thư mục Day 16
