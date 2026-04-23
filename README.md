@@ -258,25 +258,3 @@ Before leaving Day 16, your team must have:
    (Case-driven, giải thích JTBD qua nhiều ví dụ đời thực)
 
 ---
-
-### 💬 Các câu chốt quan trọng (Quick reference)
-
-> "Respect the idea, but do not trust its first product definition."
-
-> "Interest is not willingness to pay."
-
-> "FOMO AI is not a need."
-
-> **"A real need hurts even before AI exists."**
-
-> "Do not sell a tool people must configure; sell a result people can use."
-
-> **"Durable advantage comes from repeated workflow learning."**
-
-> **"Market sizing is meaningful only after product logic becomes sharper."**
-
----
-
-**Chúc các bạn có một Day 16 đầy tension tốt và những câu hỏi đúng!**
-
----
